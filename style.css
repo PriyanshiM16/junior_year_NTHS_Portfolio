@@ -1,1 +1,69 @@
-body
+body{
+Background-color: lightGrey; 
+}
+img{
+ align-self: center;
+width: 250px;  
+}
+button{
+padding: 15px;
+}
+  
+p{
+color: black;
+   text-align: center;
+  font-family: atma; 
+}
+h1{
+  color: black;
+   text-align: center;
+  font-family: atma;
+}
+h2{
+color: black;
+   text-align: center;
+  font-family: atma;
+}
+.container2{
+color: black;
+   
+  font-family: atma;
+}
+ p {
+   font-size: 20px; 
+   text-align: center; 
+ }
+
+.container {
+ display:
+flex;
+  flex-direction: row-reverse;
+ justify-content: center;
+ align-self: center;
+}
+
+h3{
+color: black;
+  font-family: atma;
+}
+
+.navbar ul{
+list-style-type: none;
+ background-color: black;
+ overflow: hidden;
+}
+.navbar a{
+color: pink;
+ display: block;
+}
+
+.navbar a:hover{
+background-color: grey;
+}
+.navbar li{
+float: left;
+ margin: 0px 20px 0px 20px; 
+ padding: 5px 6px 5px 6px;
+}
+
+  

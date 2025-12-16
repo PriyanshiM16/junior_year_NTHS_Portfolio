@@ -1,10 +1,7 @@
 body{
 Background-color: lightGrey; 
 }
-img{
- align-self: center;
-width: 250px;  
-}
+
 button{
 padding: 15px;
 }
